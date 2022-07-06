@@ -9,5 +9,10 @@
 <body>
     <h1>Home Laravel</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam animi ratione reprehenderit obcaecati neque ea cum dicta ipsa temporibus! Officiis eius animi provident. Qui nobis assumenda nesciunt quam ad. Praesentium.</p>
+    <h2>Seleziona uno di questi link</h2>
+    <a href="http://localhost:8001/home">Home</a>
+    <a href="http://localhost:8001/contatti">Contatti</a>
+    <a href="http://localhost:8001/storia">Storia</a>
+    <a href="http://localhost:8001/prodotti">Prodotti</a>
 </body>
 </html>
